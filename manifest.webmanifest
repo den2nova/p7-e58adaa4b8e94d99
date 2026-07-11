@@ -1,0 +1,16 @@
+{
+  "name": "おかいもの単価メモ",
+  "short_name": "単価メモ",
+  "description": "通信なしでも使える単価計算・比較アプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff8f3",
+  "theme_color": "#f38aa8",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
